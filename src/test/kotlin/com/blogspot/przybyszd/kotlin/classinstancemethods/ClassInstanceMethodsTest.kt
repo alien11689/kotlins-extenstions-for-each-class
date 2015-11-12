@@ -74,7 +74,7 @@ class ClassInstanceMethodsTest {
     @Test
     fun toTest() {
         //when
-        val pair = Person("John", "Smith", 20).to(5)
+        val pair = Person("John", "Smith", 20) to 5
 
         //then
         assertEquals(Person("John", "Smith", 20), pair.first)
