@@ -16,7 +16,7 @@ class DataClassInstanceMethodsTest {
     }
 
     @Test
-    fun destructuringTest() {
+    fun extractingTest() {
         //when
         val (first, last, age) = Person("John", "Smith", 20)
 
