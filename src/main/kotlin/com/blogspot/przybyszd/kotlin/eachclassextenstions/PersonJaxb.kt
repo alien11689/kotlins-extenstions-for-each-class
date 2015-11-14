@@ -1,4 +1,4 @@
-package com.blogspot.przybyszd.kotlin.classinstancemethods
+package com.blogspot.przybyszd.kotlin.eachclassextenstions
 
 class PersonJaxb {
     var firstName: String? = null

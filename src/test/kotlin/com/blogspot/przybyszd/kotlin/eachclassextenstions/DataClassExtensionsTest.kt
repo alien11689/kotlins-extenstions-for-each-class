@@ -1,9 +1,9 @@
-package com.blogspot.przybyszd.kotlin.classinstancemethods
+package com.blogspot.przybyszd.kotlin.eachclassextenstions
 
 import org.junit.Test
 import kotlin.test.assertEquals
 
-class DataClassInstanceMethodsTest {
+class DataClassExtensionsTest {
     @Test
     fun componentsTest() {
         //when
